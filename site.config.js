@@ -7,13 +7,13 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'zeit.fun',
+  domain: 'zeit.fun',
+  author: 'helixcs',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  description: 'zeit.fun',
+  socialImageTitle: 'helixcs',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
