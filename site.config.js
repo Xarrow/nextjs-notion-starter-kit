@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'zeit.fun',
   domain: 'zeit.fun',
-  author: 'helixcs',
+  author: 'Helixcs',
 
   // open graph metadata (optional)
   description: 'zeit.fun',
