@@ -71,12 +71,12 @@
 }
 
 .notion-collection-card {
-  border-radius: 16px;
+  border-radius: 7px;
   box-shadow: none;
 }
 
 .notion-collection-card-cover img {
-  border-radius: 16px;
+  border-radius: 7px;
 }
 
 .notion-collection-card {
