@@ -17,6 +17,7 @@
   padding: 0;
 }
 
+
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
   line-height: 1.65;
@@ -201,6 +202,9 @@
   /*max-width: 1200px;
   border-radius: 24px;
    */
+}
+
+.notion-page-cover-wrapper {
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
 }
 
@@ -212,9 +216,6 @@
   /*border-radius: 24px;*/
 }
 
-.notion-page-cover-wrapper {
-  box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
-}
 
 /* helixcs custom*/
 
@@ -368,7 +369,6 @@
   border-radius: 50%;
   box-shadow: 0 8px 40px 0 rgb(0 0 0 / 21%);
 }
-
 .notion-page-icon-hero.notion-page-icon-image span,
 .notion-page-icon-hero.notion-page-icon-image img {
   border-radius: 50%;

@@ -10,7 +10,6 @@ import posthog from 'posthog-js'
 import 'prismjs/themes/prism-coy.css'
 // core styles shared by all of react-notion-x (required)
 import 'react-notion-x/src/styles.css'
-// global styles shared across the entire site
 import 'styles/global.css'
 // google fonts helixcs
 import 'styles/google_fonts_family.css'
