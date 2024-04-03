@@ -2,7 +2,10 @@ import { NextApiRequest, NextApiResponse } from 'next'
 
 import * as types from '../../lib/types'
 import { search } from '../../lib/notion'
-export const config = { runtime: 'edge' };
+// export const config = { runtime: 'edge' };
+export const config = {
+  runtime: 'experimental-edge'
+}
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   if (req.method !== 'POST') {
     return res.status(405).send({ error: 'method not allowed' })
